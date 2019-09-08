@@ -22,7 +22,7 @@ class Hero
 end
 
 hero = Hero.new 'yan'
-puts hero.name
-puts hero.power_down
-puts hero.power_up
-puts hero.hero_info
+# puts hero.name
+# puts hero.power_down
+# puts hero.power_up
+# puts hero.hero_info
